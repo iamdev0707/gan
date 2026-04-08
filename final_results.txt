@@ -1,0 +1,30 @@
+fileName,date,description,status,publicScore,privateScore
+
+fmt_ImageId.csv,2026-04-07 17:35:21.973000,"ImageId,Label",SubmissionStatus.ERROR,,
+
+fmt_expected.csv,2026-04-07 17:35:18.623000,"Expected,Predicted",SubmissionStatus.ERROR,,
+
+fmt_fn_jpg.csv,2026-04-07 17:35:15.447000,"filename.jpg,label",SubmissionStatus.COMPLETE,0.85297,
+
+fmt_fn_0.csv,2026-04-07 17:35:12.120000,"filename,label 0-indexed",SubmissionStatus.ERROR,,
+
+fmt_space.csv,2026-04-07 17:35:08.037000,"filename, label (with spaces)",SubmissionStatus.ERROR,,
+
+fmt_noheader.csv,2026-04-07 17:24:25.217000,format: no header,SubmissionStatus.ERROR,,
+
+fmt_image_id.csv,2026-04-07 17:24:13.187000,"format: image_id,label",SubmissionStatus.ERROR,,
+
+fmt_Id_Cat.csv,2026-04-07 17:23:59.900000,"format: Id,Category",SubmissionStatus.ERROR,,
+
+fmt_jpg.csv,2026-04-07 17:23:29.890000,"format: ImageID.jpg,Label",SubmissionStatus.ERROR,,
+
+fmt_id_label.csv,2026-04-07 17:23:10.980000,"format: id,label",SubmissionStatus.ERROR,,
+
+sub_0idx.csv,2026-04-07 16:58:27.603000,V8 0-indexed labels,SubmissionStatus.ERROR,,
+
+22dcs003.csv,2026-04-07 16:57:26.430000,V8 roll number format,SubmissionStatus.ERROR,,
+
+submission_fixed.csv,2026-04-07 16:54:12.083000,"V8 fixed columns: filename,label",SubmissionStatus.ERROR,,
+
+submission.csv,2026-04-07 16:37:50.717000,EfficientNet-B0 + GAN baseline (Kernel V8),SubmissionStatus.ERROR,,
+
